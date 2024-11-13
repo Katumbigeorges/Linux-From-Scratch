@@ -5,7 +5,7 @@
 ## Introduction
 In the ever-evolving landscape of operating systems, understanding the fundamentals of Linux distribution creation is crucial for system engineers and developers. This project guides you through building a custom Linux distribution from scratch, providing hands-on experience with kernel configuration, system initialization, and userspace setup.
 
-> Important Note: This project is school project in the course of Linux and serves educational purposes. The resulting distribution should be used in a controlled environment (virtual machine) for learning and testing.
+> Important Note: This project is a school project in the course of Linux and serves educational purposes. The resulting distribution should be used in a controlled environment (virtual machine) for learning and testing.
 
 ## Project Overview
 The linux from scratch project demonstrates the complete process of building a functional Linux distribution from source. It covers everything from kernel compilation to userspace configuration, showcasing the essential components needed for a working Linux system while allowing for personal customization and optimization.
