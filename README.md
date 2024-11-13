@@ -86,7 +86,7 @@ The linux from scratch project demonstrates the complete process of building a f
 - Util-linux (2.27)
 - E2fsprogs (1.42.13)
 
-[Complete package list available in the subject PDF]
+[Complete package list available in the map PDF]
 
 ## Bonus Features
 Enhance your distribution with:
